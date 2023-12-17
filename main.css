@@ -33,4 +33,12 @@ span.typed-cursor {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100%;
+}
+
+@media (max-width: 425.99px) {
+    .contenedor{
+        padding: 0 15px;
+    }
+    
 }
